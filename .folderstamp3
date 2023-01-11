@@ -1,0 +1,72 @@
+This folder: /media/daniella/B/git/PartidoVelho/PlanoDeGovernanca
+
+  File: ./.folderstamp
+  Size: 66        	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1455250     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:24:48.770956700 -0300
+Modify: 2023-01-11 19:24:48.774759000 -0300
+Change: 2023-01-11 19:24:48.774759000 -0300
+ Birth: -
+IPFS hash: QmdxmGsWiN4LHy2VRjMrLvWG68VgmarC68SqWvd3Fk6gQQ
+------------------------------
+  File: ./.folderstamp1
+  Size: 1303      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1455216     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:04:13.450638800 -0300
+Modify: 2023-01-11 19:04:13.426334200 -0300
+Change: 2023-01-11 19:04:22.446542700 -0300
+ Birth: -
+IPFS hash: QmVBhgCVK2ajke6bgEbjQD9Tjok5sfZ9VemZWPzyVaaYrH
+------------------------------
+  File: ./.folderstamp2
+  Size: 2331      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1455226     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:04:30.386894100 -0300
+Modify: 2023-01-11 19:04:30.563066100 -0300
+Change: 2023-01-11 19:04:36.581777700 -0300
+ Birth: -
+IPFS hash: QmQjfd5jXHfynohH8cdVdVh7rVfq8p8FEq6TRhXiPUvBQ9
+------------------------------
+  File: ./folderstamp_recursive.sh
+  Size: 2365      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1455247     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:24:48.770423500 -0300
+Modify: 2022-11-22 18:45:33.375753300 -0300
+Change: 2023-01-11 19:24:42.573256100 -0300
+ Birth: -
+IPFS hash: QmRmYGZyeoWY4jHLex4didmsviDWE3BDhMjuRicfENGBm2
+------------------------------
+  File: ./Governo/Despoluiçao-2.txt
+  Size: 964       	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 1455236     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:21:05.072938900 -0300
+Modify: 2023-01-11 19:21:05.075257600 -0300
+Change: 2023-01-11 19:21:05.411610600 -0300
+ Birth: -
+IPFS hash: QmdwUrHUgGpMXQhkojQk5XcE9D2ixLemM3WXivXdQ3n4Sb
+------------------------------
+  File: ./Governo/Despoluiçao.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 824h/2084d	Inode: 1455213     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:03:42.599780500 -0300
+Modify: 2023-01-11 19:03:42.599780500 -0300
+Change: 2023-01-11 19:03:48.286444100 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Presidencia/Ministerios/Economia.txt
+  Size: 121       	Blocks: 1          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 139966      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-11 19:04:30.558232900 -0300
+Modify: 2023-01-05 16:06:19.285771600 -0300
+Change: 2023-01-05 16:06:19.383686100 -0300
+ Birth: -
+IPFS hash: QmUHuwqTki6Gw1oLtFH7VPaUjGUJtffYeWuvTEXr3G5eBu
+------------------------------
