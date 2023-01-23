@@ -1,0 +1,6 @@
+Primeiro, pesquisar se não é considerado quebra de decoro e se é permitido à um membro do poder Executivo fazer propostas/sugestoes ao Legislativo, e se isso nao é interpretado como interferência entre poderes que deveriam ser independentes.
+
+As Propostas:
+- Modernizaçao dos sistemas de lavratura de termos (oitavas/oitivas? em delegacias, em promotorias de justiça). Invés de escreverem "declarante disse que" quando na verdade é escriva(o) quem esta dizendo ao escrever, permitir que declarante escreva ou tenha a fala integral transcrita em um sistema de Q&A. Para manter o formato de resumo, trechos da fala/escrita podem ser cortados para uma nova versao (todas as alterações deverao ser versionadas, em um sistema VCS git ou similar).
+- CidadaniaUnica: integraçao dos sistemas do Ministerio Publico e Defensoria Publica à nível Nacional (atualmente Estadual), com base nas propostas "MinisterioUnico" e "DefensoriaUnica" (disclaimer: os orgaos publicos irao manter os nomes, sem alteraçoes). Porem de forma que ainda mantenha e identidade e independencia de cada estado. Os dados recebidos serao federados em servidores de casa estado, porem os hashs (com datas) desses arquivos serao logados em um servidor federal.
+- [TALVEZ, À CONSIDERAR] integração do site do Senado com Avaaz e Change.org
